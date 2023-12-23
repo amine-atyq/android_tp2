@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">tp2</string>
+
+    <string-array name="lstvilles">
+        <item>Tanger</item>
+        <item>Tetouan</item>
+        <item>Fes</item>
+        <item>Meknes</item>
+        <item>Rabat</item>
+    </string-array>
+    <string-array name="components">
+        <item>Activity</item>
+        <item>Service</item>
+        <item>ContentProvider</item>
+        <item>BroadcastReceiver</item>
+        <item>Intent</item>
+        <item>Notifications</item>
+        <item>Widget</item>
+    </string-array>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="specific_phrase">Affichage des éléments à partir du fichier string.xml</string>
+    <string name="title_activity_list_view">activity_list_view</string>
+</resources>
